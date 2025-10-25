@@ -1,4 +1,4 @@
-请关注我的账号https://x.com/21shmhgxbk，
+请关注我的账号https://x.com/21shmhgxbk
 更新最新的x402脚本，因为我把所有资产已经all in 了 X402
 拉到最下面，有使用教程
 
@@ -23,6 +23,7 @@ https://nodejs.org/en/download 这是nodejs下载路径
 这时候就使用了<img width="1020" height="627" alt="31c1a27268cb38710a486701de9d5eed" src="https://github.com/user-attachments/assets/ec44c2a7-2ace-47ce-90fd-e20f7b071d6b" />
 
 如果你还不懂，去的账号私信我
+
 
 
 
